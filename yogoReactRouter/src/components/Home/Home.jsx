@@ -8,7 +8,7 @@ export default function Home() {
           <div className="max-w-xl sm:mt-1 mt-80 space-y-8 text-center sm:text-right sm:ml-auto">
             <h2 className="text-4xl font-bold sm:text-5xl">
               Download Now
-              <span className="hidden sm:block text-4xl">Lorem Ipsum</span>
+              <span className="hidden sm:block text-4xl">Our YOGO App</span>
             </h2>
 
             <Link
@@ -30,9 +30,9 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
+        <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full">
           <img
-            className="w-96"
+            className="w-100"
             src="https://i.ibb.co/5BCcDYB/Remote2.png"
             alt="image1"
           />
@@ -48,7 +48,7 @@ export default function Home() {
       </div>
 
       <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">
-        Lorem Ipsum Yojo
+        Speed, Safety, Satisfaction
       </h1>
     </div>
   );
